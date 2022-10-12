@@ -1,17 +1,17 @@
-<h1 align="center">Hi ًں‘‹, I'm Hammam</h1>
+<h1 align="center">Hi 👋, I'm Hammam</h1>
 <h3 align="center">A BackEnd Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammamzarefa&label=Profile%20views&color=0e75b6&style=flat" alt="hammamzarefa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammamzarefa" alt="hammamzarefa" /></a> </p>
 
-- ًں”­ Iâ€™m currently working on [Academian](https://academian.co.uk/)
+- 🔭 I’m currently working on [Academian](https://academian.co.uk/)
 
-- ًںŒ± Iâ€™m currently learning **Docker**
+- 🌱 I’m currently learning **Docker**
 
-- ًں’¬ Ask me about **Laravel**
+- 💬 Ask me about **Laravel**
 
-- ًں“« How to reach me **HammamZarefa@gmail.com**
+- 📫 How to reach me **HammamZarefa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammamzarefa&show_icons=true&locale=en" alt="hammamzarefa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammamzarefa&" alt="hammamzarefa" /></p>
-
